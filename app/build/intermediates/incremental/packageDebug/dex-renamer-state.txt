@@ -1,0 +1,7 @@
+#Wed Jun 28 01:03:25 EDT 2017
+base.0=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7ad162ca50af39b5ab3cb891bfdc620c01ad532
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ef25181900864e0fc098f6194240535bc2e11ef1/classes.dex
+base.1=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ef25181900864e0fc098f6194240535bc2e11ef1
+file.0=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_d7ad162ca50af39b5ab3cb891bfdc620c01ad532/classes.dex

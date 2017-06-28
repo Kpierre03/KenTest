@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:2:1-57:12
+	package
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:5:5-55:19
+MERGED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/48a142de3f71bf0bafa7f8938056717d16cef821/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/56edc272042359893150a167497b384fb43294f5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /Users/Kpp2/.android/build-cache/2e39ddb41ce70eea8e9292770c3950191333cdbe/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Kpp2/.android/build-cache/5e49f14b99da3e983d16016a82e6ecad4b01b6b3/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Kpp2/.android/build-cache/569e070f9d5111f62c67a00f49ecd9d33825bee6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Kpp2/.android/build-cache/28b25458d27f5dd4b0c4671eb3bd45d89123a67b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Kpp2/.android/build-cache/becec44f9d320885b4f57ca571f3db35f9b8e826/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Kpp2/.android/build-cache/e0cc16d55bfb77bd7461055613410c69e7a8c79d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Kpp2/.android/build-cache/f8a71cf0abc08d33260197417b67da1a41b734b5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Kpp2/.android/build-cache/998771821512736725cde16aedd2e9ace027468f/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:10:9-40
+activity#com.example.ken.kendemo17.MainActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:11:9-18:20
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:11:19-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:12:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:15:27-74
+activity#com.example.ken.kendemo17.ViewPagerActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:25:9-80
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:25:19-77
+activity#com.example.ken.kendemo17.ActivityA
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:26:9-28:45
+	android:launchMode
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:28:13-42
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:27:13-63
+activity#com.example.ken.kendemo17.ActivityB
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:30:9-32:46
+	android:launchMode
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:31:13-63
+activity#com.example.ken.kendemo17.ActivityC
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:33:9-35:47
+	android:launchMode
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:35:13-44
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:34:13-63
+activity#com.example.ken.kendemo17.ActivityD
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:36:9-38:51
+	android:launchMode
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:38:13-48
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:37:13-63
+activity#com.example.ken.kendemo17.ScaleTypeActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:40:9-80
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:40:19-77
+activity#com.example.ken.kendemo17.NinePatchActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:41:9-80
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:41:19-77
+activity#com.example.ken.kendemo17.NotificationActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:42:9-83
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:42:19-80
+activity#com.example.ken.kendemo17.fragment.AdvanceActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:43:9-87
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:43:19-84
+activity#com.example.ken.kendemo17.AdvanceListViewActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:44:9-86
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:44:19-83
+activity#com.example.ken.kendemo17.AdvanceViewPagerActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:45:9-87
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:45:19-84
+activity#com.example.ken.kendemo17.ResultActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:46:9-77
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:46:19-74
+activity#com.example.ken.kendemo17.ResultActivity1
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:47:9-78
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:47:19-75
+activity#com.example.ken.kendemo17.ResultActivity2
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:48:9-78
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:48:19-75
+activity#com.example.ken.kendemo17.RadioGroupActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:49:9-81
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:49:19-78
+activity#com.example.ken.kendemo17.CheckBoxActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:50:9-79
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:50:19-76
+activity#com.example.ken.kendemo17.DialogActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:51:9-77
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:51:19-74
+activity#com.example.ken.kendemo17.HandlerActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:52:9-78
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:52:19-75
+activity#com.example.ken.kendemo17.RunnableHandlerActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:53:9-86
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:53:19-83
+activity#com.example.ken.kendemo17.AnimationActivity
+ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:54:9-89
+	android:name
+		ADDED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml:54:19-77
+uses-sdk
+INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/48a142de3f71bf0bafa7f8938056717d16cef821/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/56edc272042359893150a167497b384fb43294f5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Kpp2/.android/build-cache/2f645dc342827712f14cad7c35a17579c5be930b/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /Users/Kpp2/.android/build-cache/2e39ddb41ce70eea8e9292770c3950191333cdbe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Kpp2/.android/build-cache/5e49f14b99da3e983d16016a82e6ecad4b01b6b3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Kpp2/.android/build-cache/569e070f9d5111f62c67a00f49ecd9d33825bee6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Kpp2/.android/build-cache/28b25458d27f5dd4b0c4671eb3bd45d89123a67b/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Kpp2/.android/build-cache/becec44f9d320885b4f57ca571f3db35f9b8e826/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Kpp2/.android/build-cache/e0cc16d55bfb77bd7461055613410c69e7a8c79d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/Kpp2/.android/build-cache/09c6be4393048596320151b1363a66bc2a6ad4f2/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Kpp2/.android/build-cache/f8a71cf0abc08d33260197417b67da1a41b734b5/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/Kpp2/.android/build-cache/998771821512736725cde16aedd2e9ace027468f/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/48a142de3f71bf0bafa7f8938056717d16cef821/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /Users/Kpp2/.android/build-cache/56edc272042359893150a167497b384fb43294f5/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /Users/Kpp2/.android/build-cache/2f645dc342827712f14cad7c35a17579c5be930b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /Users/Kpp2/.android/build-cache/2e39ddb41ce70eea8e9292770c3950191333cdbe/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /Users/Kpp2/.android/build-cache/5e49f14b99da3e983d16016a82e6ecad4b01b6b3/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /Users/Kpp2/.android/build-cache/569e070f9d5111f62c67a00f49ecd9d33825bee6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /Users/Kpp2/.android/build-cache/28b25458d27f5dd4b0c4671eb3bd45d89123a67b/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /Users/Kpp2/.android/build-cache/becec44f9d320885b4f57ca571f3db35f9b8e826/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /Users/Kpp2/.android/build-cache/e0cc16d55bfb77bd7461055613410c69e7a8c79d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /Users/Kpp2/.android/build-cache/f8a71cf0abc08d33260197417b67da1a41b734b5/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/AndroidManifest.xml:26:9-47

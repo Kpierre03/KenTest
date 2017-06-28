@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/anim_rotate.xml",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/anim/anim_rotate.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/anim_trans.xml",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/anim/anim_trans.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/anim_scale.xml",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/anim/anim_scale.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/anim_set.xml",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/anim/anim_set.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/anim_alpha.xml",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/anim/anim_alpha.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/anim/design_snackbar_in.xml"
+    }
+]

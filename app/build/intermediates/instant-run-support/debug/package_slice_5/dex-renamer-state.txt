@@ -1,0 +1,4 @@
+#Wed Jun 28 01:03:24 EDT 2017
+base.0=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

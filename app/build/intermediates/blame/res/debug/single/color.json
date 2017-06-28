@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/Users/Kpp2/.android/build-cache/2040630674e971c6b5ae2f1fe79a6a1aa09fd7d3/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/Kpp2/.android/build-cache/31c34b3db79690362a9021bf436f413871b6b638/output/res/color/abc_tint_seek_thumb.xml"
+    }
+]

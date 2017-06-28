@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/nomail.png",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/mipmap-xhdpi/nomail.png"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/account_selected.png",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/mipmap-xhdpi/account_selected.png"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/panda.png",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/mipmap-xhdpi/panda.png"
+    },
+    {
+        "merged": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/build/intermediates/res/merged/debug/mipmap-xhdpi/account_unselected.png",
+        "source": "/Users/Kpp2/AndroidStudioProjects/KenTest/app/src/main/res/mipmap-xhdpi/account_unselected.png"
+    }
+]
